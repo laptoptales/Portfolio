@@ -60,7 +60,7 @@ export const experiencesData = [
     date: "2023 - 2024",
   },
   {
-    title: "Software Engineer",
+    title: "Software Engineer -Brownbox consulting",
     location: "Baner, Pune",
     description:
       "Working on technologies like react, JS, TS etc",

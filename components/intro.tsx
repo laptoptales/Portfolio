@@ -106,7 +106,7 @@ const Intro = () => {
                 href="#contact"
                 className="font-medium text-gray-700 hover:text-gray-900 focus:text-gray-900 focus:outline-none dark:text-white/80 dark:hover:text-white dark:focus:text-white transition-all"
               >
-                Hire me?
+                Contact me?
               </a>
             </RoughNotation>
           </p>
