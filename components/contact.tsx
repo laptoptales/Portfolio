@@ -21,12 +21,12 @@ const Contact = () => {
     >
       <SectionHeading>Contact Me</SectionHeading>
       <p className="text-gray-700 -mt-6 inline dark:text-white/80">
-        I'm currently looking for new opportunities, my inbox is always open.
+        My inbox is always open.
         Whether you have a question or just want to say hi, I'll get back to
         you! Contact me directly at{" "}
       </p>
-      <a className="underline" href="mailto:amitkhedkar41@gmail.com">
-        amitkhedkar41@gmail.com
+      <a className="underline" href="mailto:laptoptales@gmail.com">
+        laptoptales@gmail.com
       </a>{" "}
       or through this form.
       <form

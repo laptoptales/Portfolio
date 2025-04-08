@@ -28,12 +28,12 @@ const About = () => {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          Java, Spring boot, Hibernate and SQL
+          Java, JS, TS, Spring boot, Hibernate and SQL
         </span>
         . I am also familiar with technologies like React js, Node js, MongoDB and Bootstrap . I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        learn new technologies. I am currently working as a{" "}
+        <span className="font-medium">Software Engineer</span> at Brownbox Consulting
+        Pvt. ltd.
       </p>
 
       <p>

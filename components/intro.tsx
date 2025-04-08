@@ -91,7 +91,7 @@ const Intro = () => {
             .
           </p>
           <p className="sm:text-[1.3rem]">
-            I'm currently looking for a new role as a developer.{" "}
+            I'm currently working as a software engineer at brownbox consulting.{" "}
             <RoughNotation
               type="circle"
               multiline={true}

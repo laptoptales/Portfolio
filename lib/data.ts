@@ -53,12 +53,20 @@ export const experiencesData = [
   },
   {
     title: "Full stack java intern - QSpiders Pune",
-    location: "Hinjevadi, Pune",
+    location: "Deccan, Pune",
     description:
-      "Currently gaining experience as a full stack java developer intern at qspiders. Where i had learn technologies like Java, J2EE, Spring, Hibernate, SQL etc",
+      "Gained experience as a full stack java developer intern at qspiders. Where i had learn technologies like Java, J2EE, Spring, Hibernate, SQL etc",
     icon: React.createElement(FaReact),
-    date: "2023 - present",
+    date: "2023 - 2024",
   },
+  {
+    title: "Software Engineer",
+    location: "Baner, Pune",
+    description:
+      "Working on technologies like react, JS, TS etc",
+    icon: React.createElement(FaReact),
+    date: "2024 - present",
+  }
 ] as const;
 
 export const projectsData = [
